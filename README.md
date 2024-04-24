@@ -1,6 +1,6 @@
 # 💤 LazyVim
 
-Init my journey to neovim world.
+Started my journey to neovim world.
 
 This repository is going to make my changes based in lazyvim project.
 
